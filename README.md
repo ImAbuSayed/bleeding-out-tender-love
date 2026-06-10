@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bleeding-out-tender-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Bleeding Out Tender Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bleeding-out-tender-love/) |
+| **Get License** | [License this song: Bleeding Out Tender Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bleeding-out-tender-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `04063ea79c2b125bf3421c4bcb663ab40d75e41b5a2cd837e1f261eae532ae8d` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
